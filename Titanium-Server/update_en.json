@@ -1,0 +1,25 @@
+{
+  "newestVersion": "2.0.4",
+  "versions": [
+    {
+      "version": "2.0.4",
+      "filename": "app-release",
+      "description": "1. More Providers fixed and added new ones\n2. Slow update/New HD fixed\n3. Netflix, Amazon, Hulu now newest first\n4. Openload fixed"
+    },
+    {
+      "version": "2.0.3",
+      "filename": "app-release",
+      "description": "1. More Providers fixed and added new ones\n2. Exo and Titanium Player fixed\n3. 4.1+ Android Support\n4. Fixed Icon"
+    },
+    {
+      "version": "2.0.2",
+      "filename": "app-release",
+      "description": "1. Releasebb fixed\n2. New icon"
+    },
+    {
+      "version": "2.0",
+      "filename": "app-release",
+      "description": "1. Three dot menu clened up\n2. Default player should now be MX \n3. Releasebb if fixed\n4. Many providers fixed including RD\n5. All categories working\n6. Release 2.0 is here"
+    }
+  ]
+}

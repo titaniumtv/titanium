@@ -1,0 +1,47 @@
+{
+  "entries":  
+  [
+    {
+      "ID":"1",
+      "IMPORTANT":false,
+      "TITLE":"Logo",
+      "CONTENT":"Thanks to @Dark Reaper for the new logo!\r\n"    
+    },
+    {
+      "ID":"2",
+      "IMPORTANT":false,
+      "TITLE":"Disclaimer",
+      "CONTENT":"The author does not host or upload any of the content of the app. \r\n\r\nAll content is retrieved from third-party websites like Trakt.tv, TMDB, Imdb,Openload, Streamango, Google, TheVideo, Vidup, Vidoza, etc..\r\n\r\nThe author does not have any affiliation with the content providers and is not responsible for the content they provide.\r\n\r\nTo know more about the app, check the \"Information\" section on the main menu.\r\n"    
+    },
+    {
+      "ID":"3",
+      "IMPORTANT":false,
+      "TITLE":"Torrents",
+      "CONTENT":"You can watch torrent streams directly on Morph TV without downloading them previously.\r\nTorrents will also be casted to Chromecast devices by using an internal HTTP server which will stream the file directly to the device.\r\n\r\nTorrents are disabled by default and to avoid any legal issues in your country you should use a VPN service while torrenting.\r\n\r\nTorrent integration for now is limited to just a few providers like RARBG, YTS.AG and EZTV.\r\n\r\nAfter selecting a torrent source, some metadata will be downloaded which includes the first and last pieces of the video file and this process can take a few seconds or minutes depending on the speed of your connection, the file size and the amount of peers currently sharing the file."    
+    },
+    {
+      "ID":"4",
+      "IMPORTANT":false,
+      "TITLE":"Downloads",
+      "CONTENT":"Morph TV allows you to download the sources to watch later.\r\nThis is a great option if you have a slow internet or suffer from alot of buffering because you can just download the file and watch it later.\r\n\r\nBefore downloading, make sure you have enough free space on the device.\r\n\r\nTo download, just long click (or context menu button) on one of the sources, a movie or episode and a dialog will popup with an option to download.\r\n\r\nAfter adding a file to the download queue, you can check its status in the downloads section of the main menu or click the download icon on the top right corner of the screen.\r\n\r\nYou can pause, cancel, set priorities of your downloads by long tapping (or context menu) a download and selecting the appropriate action from the popup dialog."    
+    },
+    {
+      "ID":"5",
+      "IMPORTANT":false,
+      "TITLE":"Casting",
+      "CONTENT":"Morph TV integrates with Google Cast and allows you to stream your sources and torrents to those devices.\r\n\r\nAfter clicking the cast icon on the top right corner of the screen and selecting your device, any stream will by played on it instead of the internal player.\r\n\r\nAn internal HTTP server is used to help serve files to the device.\r\nSubtitles will always be served by this server and for some video files that refuse to play directly (like HLS streams) it will also serve as a proxy to resolve common problems like CORS, invalid cookies, etc...\r\n\r\nIf you plan to use this app mainly for casting, it is recommended to enable the main notification in the settings.\r\nThis notification is used to keep the foreground service alive and responding to requests from the Chromecast while your phone is locked."    
+    },
+    {
+      "ID":"6",
+      "IMPORTANT":false,
+      "TITLE":"About",
+      "CONTENT":"MorphTV is a free app without any ads or subscription plans.\r\nIt searches several free and public websites for streaming links and displays the results in simple interface navigateable with a DPAD remote control without the need for a mouse or keyboard.\r\n\r\nAll movie and tvshow metadata is retrieved from Trakt.tv, posters and backdrops are retrieved from TMDB.\r\nSubtitles for movies and tv shows are provided by third-party websites like Opensubtitles, LegendasDivx and TVSubs.\r\nAll links scraped by the app are available to the public in their respective websites and are hosted by third-party services like Openload, Streamango, Google, TheVideo, Vidup, Vidoza, etc..\r\n\r\nIt has some integration with your Trakt.tv account but for now it is limited to Collections and Watchlist.\r\nIt will automatically mark content as watched when you watch 90% of it.\r\nFor tv shows, there is a nice \"Watch next\" section where it shows your next episodes to watch...\r\n\r\nIt uses its own internal player (Exoplayer with some modifications) and can also play to Chromecast devices.\r\nIn the first versions it used external players like VLC and MxPlayer but they were quickly dismissed because of the lack of control over the UI and the HTTP request headers.\r\n\r\n"    
+    },
+    {
+      "ID":"7",
+      "IMPORTANT":true,
+      "TITLE":"1.73 Update",
+      "CONTENT":"Fixed providers\r\nXmovies, yesmovie.sc, cartoonhd\r\n"    
+    }	
+  ]
+}

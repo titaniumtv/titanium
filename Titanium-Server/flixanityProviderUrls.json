@@ -1,0 +1,23 @@
+{
+    "bases": [{
+        "url": "https://cartoonhd.nl",
+        "useNEmbeds": true,
+        "embedsPath": "n123embed.php",
+        "bdcCookie": "BDC=2244c21a9db5723c5b71e11e24498db4; expires=Thu, 31-Dec-37 23:55:55 GMT; path=/"
+    }, {
+        "url": "https://flixanity.io",
+        "useNEmbeds": false,
+        "embedsPath": "gonlflhyad.php",
+        "bdcCookie": "BDC=e41ad002b377bf85e0a092f4b666fa1a; expires=Thu, 31-Dec-37 23:55:55 GMT; path=/"
+    }, {
+        "url": "https://123movies.it",
+        "useNEmbeds": false,
+        "embedsPath": "n123embed.php",
+        "bdcCookie": "BDC=e41ad002b377bf85e0a092f4b666fa1a; expires=Thu, 31-Dec-37 23:55:55 GMT; path=/"
+    }, {
+        "url": "https://www1.gogoanime.sh/",
+        "useNEmbeds": false,
+        "embedsPath": "n123embed.php", 
+        "bdcCookie": "gogoanime=eu618q4unri16ljh31bd5jabu6"
+    }]
+}
